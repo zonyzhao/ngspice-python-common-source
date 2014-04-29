@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from circuit import Characterization, Verification, Transient, Frequency
 import design
